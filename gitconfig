@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ellaherlihy@gmail.com
+	name = Ella Herlihy
